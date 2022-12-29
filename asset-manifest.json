@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/React-Bootstrap/static/css/main.00944b89.css",
+    "main.js": "/React-Bootstrap/static/js/main.721422b7.js",
+    "static/js/787.a521b789.chunk.js": "/React-Bootstrap/static/js/787.a521b789.chunk.js",
+    "static/media/1306572.jpg": "/React-Bootstrap/static/media/1306572.5e260fba7ae7d0b65cfb.jpg",
+    "static/media/header.webp": "/React-Bootstrap/static/media/header.9f50de09c312bb4b59b2.webp",
+    "static/media/2.jpg": "/React-Bootstrap/static/media/2.08832965fba386d2bef9.jpg",
+    "static/media/media 3.jpg": "/React-Bootstrap/static/media/media 3.9d9149d96d961f1e8c75.jpg",
+    "static/media/image 4.png": "/React-Bootstrap/static/media/image 4.27d3bb3e35d1b453ad42.png",
+    "static/media/deals 1.png": "/React-Bootstrap/static/media/deals 1.597fc9e5b6d3aa3a7296.png",
+    "static/media/image 5.png": "/React-Bootstrap/static/media/image 5.597fc9e5b6d3aa3a7296.png",
+    "static/media/1.jpg": "/React-Bootstrap/static/media/1.7fd1a9467e0aea02bf69.jpg",
+    "static/media/image 1.png": "/React-Bootstrap/static/media/image 1.e7d4cbf12ad26a6841c0.png",
+    "static/media/media 4.jpg": "/React-Bootstrap/static/media/media 4.00ac26ff5a376f573b0c.jpg",
+    "static/media/image 2.png": "/React-Bootstrap/static/media/image 2.d1c0a2382f9b8aa02755.png",
+    "static/media/news 4.png": "/React-Bootstrap/static/media/news 4.d1c0a2382f9b8aa02755.png",
+    "static/media/image 6.png": "/React-Bootstrap/static/media/image 6.930337cde15bb9650dbb.png",
+    "static/media/news 2.png": "/React-Bootstrap/static/media/news 2.bc48baad204309bd713a.png",
+    "static/media/deals 3.png": "/React-Bootstrap/static/media/deals 3.f1af0beefd85e1ca5478.png",
+    "static/media/news 3.png": "/React-Bootstrap/static/media/news 3.f1af0beefd85e1ca5478.png",
+    "static/media/deals 2.png": "/React-Bootstrap/static/media/deals 2.01eaca556532124b54bb.png",
+    "static/media/image 3.png": "/React-Bootstrap/static/media/image 3.01eaca556532124b54bb.png",
+    "static/media/news 1.png": "/React-Bootstrap/static/media/news 1.55c9c281c16f2cfd4fab.png",
+    "static/media/media 5.jpg": "/React-Bootstrap/static/media/media 5.83c2aaff1f732c7793f0.jpg",
+    "static/media/media 1.jpg": "/React-Bootstrap/static/media/media 1.eaa2281137e5e3e107ee.jpg",
+    "static/media/media 2.jpg": "/React-Bootstrap/static/media/media 2.cbd82686dbee768ff7d2.jpg",
+    "static/media/media 6.jpg": "/React-Bootstrap/static/media/media 6.b567c43bd2a94d4dccc3.jpg",
+    "index.html": "/React-Bootstrap/index.html",
+    "main.00944b89.css.map": "/React-Bootstrap/static/css/main.00944b89.css.map",
+    "main.721422b7.js.map": "/React-Bootstrap/static/js/main.721422b7.js.map",
+    "787.a521b789.chunk.js.map": "/React-Bootstrap/static/js/787.a521b789.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00944b89.css",
+    "static/js/main.721422b7.js"
+  ]
+}
