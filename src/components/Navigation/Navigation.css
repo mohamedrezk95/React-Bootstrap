@@ -1,0 +1,29 @@
+nav{
+    background-color: #f6f6f6;
+    width: 100%;
+    height: auto;
+    max-width: 100%; 
+}
+.navbar{
+    flex-wrap: nowrap;
+}
+nav img{
+    max-width: 100%;
+    height: 50px;
+    margin-right: 100px;
+}
+nav a{
+    color: #000 !important;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    margin:0 20px;
+    transition: all 0.3s;
+}
+nav a:hover{
+    color: #50BD4D !important;
+  
+}
+.right{
+    justify-content: flex-end;
+    width: 100%;
+}

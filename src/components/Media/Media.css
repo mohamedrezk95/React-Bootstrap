@@ -1,0 +1,55 @@
+.media{
+    padding-top: 30px;
+}
+.instgram{
+    background-color: #50BD4D;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+}
+@media (max-width: 767px) {
+    .instgram {
+      padding: 20px 0;
+    }
+  }
+.instgram h3{
+    color: #fff;
+    font-size: 36px;
+    line-height: 1.5;
+    font-weight: 700;
+}
+.instgram button{
+    box-shadow: 0 3px 24px rgb(0 0 0 / 10%);
+    border-radius: 25px;
+    background-color: #fff;
+    border: 0;
+    padding: 14px 40px;
+    margin-top: 10px;
+    transition: all 0.3s;
+}
+.instgram button a{
+    text-align: center;
+    color: #50BD4D;
+    font-size: 18px;
+    font-weight: 600;
+}
+.instgram button:hover{
+    background-color: #F0F2F3;
+}
+img{
+    max-width: 100%;
+}
+.no-gutters{
+    padding-left: 0;
+    padding-right: 0;
+}
+@media (max-width: 767px) {
+    .no-gutters {
+      flex-direction: column;
+    }
+  }

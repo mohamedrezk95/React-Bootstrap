@@ -1,0 +1,57 @@
+.footer{
+padding-top: 60px;
+padding-bottom: 10px;
+text-align: left;
+background-color:#F0F2F3;
+}
+@media (max-width: 767px) {
+    .footer {
+      text-align: center;
+    }
+  }
+.footer h4{
+    margin: 20px 0;
+    font-weight: 700;
+    line-height: 1.5;
+    text-align: left;
+    font-size: 1.3rem;
+
+}
+@media (max-width: 767px) {
+    .footer h4 {
+      text-align: center;
+    }
+  }
+.footer ul{
+    list-style: none;
+    padding: 0;
+}
+.footer ul li{
+    margin: 20px 0;
+}
+.footer ul li a{
+   color: #515151;
+   transition: all 0.5s;
+}
+.footer ul li a:hover{
+    color: #50BD4D;
+
+}
+.copyRight{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+.copyRight p{
+    color: #515151;
+    font-size: 18px;
+    line-height: 1.8;
+}
+.copyRight a{
+    color: #50BD4D;
+    transition: all 0.5s;
+    margin-right: 5px;
+}
+.copyRight a:hover{
+    color: #40A13D;
+}

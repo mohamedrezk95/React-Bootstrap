@@ -1,0 +1,61 @@
+.gallerybox{
+    margin-top: 80px;
+ 
+}
+.gallerybox h2{
+   font-size: 30px;
+    line-height: 1.4;
+    font-weight: 700;
+    color: #1cce00;
+}
+.box{
+    background-color: #fff;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+    text-align: right;
+    max-width: 100%;
+    height: auto;
+    padding: 12px;
+    margin: 20px 0;
+    overflow: hidden;
+}
+@media (max-width: 767px) {
+    .box {
+        text-align: -webkit-center;
+    }
+  }
+
+.box img{
+    max-width: 100%;
+    height: 150px;
+display: block;
+}
+.box h2{
+    color: #000;
+    font-size: 20px;
+    margin: 10px 0;
+}
+.box p{
+    color: #212121;
+    font-size: 16px;
+    line-height: 28px;
+}
+.box span{
+    display: block;
+    color: rgb(12, 202, 12);
+    font-size: 16px;
+    margin: 10px 0;
+    font-weight: bold;
+}
+.box button{
+    background-color: rgb(12, 202, 12);
+    border: 1px solid rgb(12, 202, 12);
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    color: #fff;
+    border-radius: 25px;
+}
+.box button a{
+    color: #fff;
+}

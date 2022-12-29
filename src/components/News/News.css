@@ -1,0 +1,60 @@
+.new{
+    padding: 30px 0;
+}
+.new h4{
+    font-size: 26px;
+    line-height: 1.4;
+    font-weight: 700;
+    text-align: left;
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    background-color: #fff;
+    border: 1px solid #F0F2F3;
+    box-shadow: 0 3px 24px rgb(0 0 0 / 4%);
+    border-radius: 8px;
+    margin: 30px 0;
+}
+.cont img{
+    max-width: 100%;
+}
+.cont .title{
+    color: #18181D;
+    text-decoration: none;
+    transition: all 0.3s;
+    margin: 10px 0;
+    font-size: 16px;
+    line-height: 1.7;
+    font-weight: 500;
+}
+.cont .title:hover{
+    color: #50BD4D;
+}
+.cont span{
+    font-size: 14px;
+    display: inline-block;
+    line-height: 1.7;
+    color: #18181D;
+    font-weight: 700;
+    margin: 15px 0;
+}
+.cont button{
+    margin-top: 20px;
+    background-color: #50BD4D;
+border: none;
+padding: 12px 30px;
+transition: all 0.3s;
+}
+.cont button a{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.cont button:hover{
+    background-color: #40A13D;
+}
